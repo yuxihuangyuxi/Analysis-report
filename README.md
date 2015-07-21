@@ -65,6 +65,6 @@
 <ul><strong>
 <li>制作产品介绍flash</li>
 <li>菜单栏右边侧提供快速入口，如在线客服</li>
-<li>建设和维护社交账号和技术社区账号，包括codeplex，github</li>
+<li>建设和维护社交账号和技术社区账号，包括codeplex，github，并整合放置在主页底部</li>
 <li>用户论坛专人维护和解答</li>
 </strong></ul>
