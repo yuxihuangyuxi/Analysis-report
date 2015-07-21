@@ -29,7 +29,7 @@
 <h3>内容及排列不合理</h3>
 ![menu content](https://lh3.googleusercontent.com/wTweDgdrBl-JRrxLcPV2FsDrmq_nMG4fnROIO7N-SAM=w1223-h356-no)
 
-菜单还应添加一些快速入口
+菜单还应添加一些快速入口<br/>
 ![menu shortcut](https://lh3.googleusercontent.com/HNM7bRyQ2LyF3hWukzKFBW8-uZwCxI4jtQK3S1fAhmE=w660-h223-no)
 
 3. 产品介绍页面http://kooboo.com/products/Kooboo-CMS
