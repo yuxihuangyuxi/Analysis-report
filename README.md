@@ -42,10 +42,10 @@
 ![menu relation eg](https://lh3.googleusercontent.com/x2StVWXQTO3j7k1bYUy6uy9fbglLRZNVpRW3u3viGWw=w1611-h44-no)
 ![footer relation eg](https://lh3.googleusercontent.com/zXq9qKfDHDxXTupEXRZ8GgNlxbluz4X2fC0_3EHnFlA=w1611-h277-no)
 
-3. 产品介绍页面http://kooboo.com/products/Kooboo-CMS
+<h2>3. 产品介绍页面http://kooboo.com/products/Kooboo-CMS</h2>
 ![products](https://lh3.googleusercontent.com/YUOGysEO_R1oIXXRIYCmtPfR65Nx6JF5YsOPDyHF-88=w1611-h224-no)  
  
-6. 新闻页面http://www.kooboo.com/updates
+<h2>4. 新闻页面http://www.kooboo.com/updates</h2>
 ![news](https://lh3.googleusercontent.com/4HYOrR-wBLGVx3GcjFGB0dI4gVbSpbcMkU02MYiT1ew=w1451-h295-no) 
 
 7. 跳转到其他网站的页面
