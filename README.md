@@ -17,7 +17,7 @@
 <ul>
 <li>交互感不强</li>
 <li>内容及排列不合理</li>
-<li>和子页面菜单不一致；和页尾不对应</li>
+<li>与子页面和页尾不一致</li>
 </ul>
 
 <h3>交互感不强</h3>
@@ -32,19 +32,26 @@
 菜单还应添加一些快速入口<br/>
 ![menu shortcut](https://lh3.googleusercontent.com/HNM7bRyQ2LyF3hWukzKFBW8-uZwCxI4jtQK3S1fAhmE=w660-h223-no)
 
+<h3>菜单与子页面和页尾不一致</h3>
+全局菜单应保持全站一致
+![main menu](https://lh3.googleusercontent.com/t9b8QYsmiIZD02VtN9NaxwOyqBFBRrS1_H8y76JlkPc=w1542-h55-no)
+![forum menu](https://lh3.googleusercontent.com/Z-lGFrLkJvD7Hrjz6I5ak3qQxGLbowXrdnyn1sPV_qo=w1611-h58-no)
+菜单与页尾之间应保持一定关联，以体现站点的完整性和易访问性。<br/>
+![footer relation](https://lh3.googleusercontent.com/YUOGysEO_R1oIXXRIYCmtPfR65Nx6JF5YsOPDyHF-88=w1563-h217-no)
+示例：
+![menu relation eg](https://lh3.googleusercontent.com/x2StVWXQTO3j7k1bYUy6uy9fbglLRZNVpRW3u3viGWw=w1611-h44-no)
+![footer relation eg](https://lh3.googleusercontent.com/zXq9qKfDHDxXTupEXRZ8GgNlxbluz4X2fC0_3EHnFlA=w1611-h277-no)
+
 3. 产品介绍页面http://kooboo.com/products/Kooboo-CMS
-  
-
-4. 产品说明页面http://www.kooboo.com/docs/Kooboo-CMS/all
-  
+![products](https://lh3.googleusercontent.com/YUOGysEO_R1oIXXRIYCmtPfR65Nx6JF5YsOPDyHF-88=w1611-h224-no)  
+ 
 6. 新闻页面http://www.kooboo.com/updates
- 
+![news](https://lh3.googleusercontent.com/4HYOrR-wBLGVx3GcjFGB0dI4gVbSpbcMkU02MYiT1ew=w1451-h295-no) 
 
-5. 产品介绍和产品说明页面的链接跳转问题
-www.kooboo.com/products ------->当把后面的
- 
-
-6. 菜单按钮名称及顺序排布
+7. 跳转到其他网站的页面
+download
+forum
+demo
 
 
 公司网站不仅是对外的展示窗口，更重要的是维护和发展用户社区，尤其是在公司新产品针对的是广大个人用户的情况下，作为Kooboo产品的门户网站，应该重视与用户的交流。所以要提高网站的体验，最重要和关键的就是服务好用户，对用户的疑问和问题进行跟踪处理。
