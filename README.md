@@ -53,7 +53,7 @@
 ![download](https://lh3.googleusercontent.com/hMFVyts0IZ0Vd9uQ0DWNCw9BweUwexLYmaU5rkMcQM0=w1918-h418-no)
 
 <h2>6. 论坛http://forum.kooboo.com/</h2>
-公司网站不仅是对外的展示窗口，更重要的是维护和发展用户社区，尤其是在公司新产品针对的是广大个人用户的情况下，作为Kooboo产品的门户网站，应该重视与用户的交流。所以要提高网站的体验，最重要和关键的就是服务好用户，对用户的疑问和问题进行跟踪处理。
+公司网站不仅是对外的展示窗口，更重要的是维护和发展用户社区，尤其是在公司新产品针对的是广大个人用户的情况下，作为Kooboo产品的门户网站，应该重视与用户的交流。所以要提高网站的体验，最重要和关键的就是服务好用户，对用户的疑问和问题进行跟踪处理。<br/>
 <strong>且不论论坛外观和功能如何，最关键是要有人维护。</strong>目前论坛有2664个注册用户，论坛维护和推广做的好，才能留住老用户，并发展新的用户。
 ![forum](https://lh3.googleusercontent.com/pt3J_nEgxa21Tk5qcI4b2mau-r62jmHU1ieAr3vWTKo=w755-h218-no)
 
