@@ -43,7 +43,7 @@
 ![footer relation eg](https://lh3.googleusercontent.com/zXq9qKfDHDxXTupEXRZ8GgNlxbluz4X2fC0_3EHnFlA=w1611-h277-no)
 
 <h2>3. 产品介绍页面http://kooboo.com/products/Kooboo-CMS</h2>
-![products](https://lh3.googleusercontent.com/YUOGysEO_R1oIXXRIYCmtPfR65Nx6JF5YsOPDyHF-88=w1611-h224-no)  
+![products](https://lh3.googleusercontent.com/mLzFmTrPxV0xitccMEdqGBdTvIUslRbhrYcfROgsmTk=w1611-h670-no)  
  
 <h2>4. 新闻页面http://www.kooboo.com/updates</h2>
 ![news](https://lh3.googleusercontent.com/4HYOrR-wBLGVx3GcjFGB0dI4gVbSpbcMkU02MYiT1ew=w1451-h295-no) 
