@@ -48,8 +48,14 @@
 <h2>4. 新闻页面http://www.kooboo.com/updates</h2>
 ![news](https://lh3.googleusercontent.com/4HYOrR-wBLGVx3GcjFGB0dI4gVbSpbcMkU02MYiT1ew=w1451-h295-no) 
 
-7. 跳转到其他网站的页面
+7. 引入第三方平台的页面跳转细节
+源码下载http://kooboo.codeplex.com/
+<ul>
+
+</ul>
+
 download
+
 forum
 demo
 
