@@ -10,7 +10,7 @@
 
 主页例子：
 ![homepage eg1](https://lh3.googleusercontent.com/bG2DeNHdJNj_WG96635No2aS75mIV4f5HRHEikxt4ok=w1919-h875-no)
-![homepage eg2](https://lh3.googleusercontent.com/XGY4jHO65OaZaJLjS_zjw18AnBzFDgXOVvmm7H6j7do=w1760-h824-no)
+![homepage eg2](https://lh3.googleusercontent.com/8ArKMvkkLaY1VF5GzF7OYKSddqg6Y7K-_0CwfyIs7Ps=w1758-h825-no)
 ![homepage eg3](https://lh3.googleusercontent.com/ot93kji_r3dErDN9gNxUp3W_krqeK82T3npZKCueMZA=w1919-h568-no)
 
 <h2>2. 顶部菜单栏/导航栏</h2>
@@ -30,7 +30,7 @@
 <ul>
 <li>Docs应改成Tutorial“用户指导手册”</li>
 <li>Updates-更新，可以是产品的更新，也可以是公司信息的更新，表达后者最好用News/Blog/Article</li>
-<li>顶部导航最好不要放置太多按钮，“Forum”不必放在此处，可作为主页独立版块“用户支持”的一部分放置在主页中</li>
+<li>顶部导航最好不要放置太多按钮，间距太小，“Forum”不必放在此处，可作为主页独立版块“用户支持”的一部分放置在主页中</li>
 </ul>
 ![menu content](https://lh3.googleusercontent.com/QsHj2NoLOARj3HxUIhL0v85jfMW5dVHGbWR-TTCqTs0=w1919-h69-no)
 
@@ -59,17 +59,16 @@
 
 <h2>6. 论坛http://forum.kooboo.com/</h2>
 公司网站不仅是对外的展示窗口，更重要的是维护和发展用户社区，尤其是在公司新产品针对的是广大个人用户的情况下，作为Kooboo产品的门户网站，应该重视与用户的交流。所以要提高网站的体验，最重要和关键的就是服务好用户，对用户的疑问和问题进行跟踪处理。<br/>
-<strong>且不论论坛外观和功能如何，最关键是要有人维护。</strong>目前论坛有2664个注册用户，论坛维护和推广做的好，才能留住老用户，并发展新的用户。
-![forum](https://lh3.googleusercontent.com/pt3J_nEgxa21Tk5qcI4b2mau-r62jmHU1ieAr3vWTKo=w755-h218-no)
+<strong>
 
-<h2>7. 关于Join us页面http://kooboo.com/join-us</h2>
+<h2>7. 子页面缺乏设计</h2>
+<h3>Join us</h3>
 这个页面是后来新加的，如果决定继续保留此页面，则需要根据整个网站的主题元素加入设计，让整个页面更易阅读，看上去更专业。
 ![join us](https://lh3.googleusercontent.com/oxsIDyirGc1jYENcAMATloakMKIwTZ4M9EYtcRu8gFU=w1918-h970-no)
 
 总结提升Kooboo Site用户体验的（页面&非页面）关键步骤：
 <ul><strong>
-<li>主页仿照示例网站重新分块</li>
-<li>建设和维护社交账号和技术社区账号，包括codeplex，github，并整合放置在主页底部</li>
-<li>用户论坛专人维护和解答</li>
+<li>主页仿照示例网站重新设计</li>
+<li>建设和维护论坛、第三方平台，包括codeplex，github，并整合放置在主页</li>
 <li>制作产品介绍flash</li>
 </strong></ul>
