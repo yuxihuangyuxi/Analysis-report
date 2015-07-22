@@ -6,7 +6,7 @@
 <h2>1. 网站主页http://kooboo.com/</h2>
 首先打开咱们的kooboo网站主页，给人的感觉比较单调，并且缺少了一些重要内容。既没有明确列出公司的主要产品，也不具有说服性和引导性。
 ![homepage1](https://lh3.googleusercontent.com/b9lyqeiLxbnI5JD6C0lz7UVgnlpXS9p5horfbt57leI=w1770-h947-no)
-![homepage2](https://lh3.googleusercontent.com/DKD9kaCP9P8cgTQB2vbwlhElwHjBPq0ESpNmJ49oqVE=w1919-h315-no)  
+![homepage2](https://lh3.googleusercontent.com/LRttU2po4jD60me9OJyTC8i010B7tnmh064GrA6uOzI=w783-h220-no)  
 
 主页例子：
 ![homepage eg1](https://lh3.googleusercontent.com/7nosk1P6SzpMFPhGqzu4N-fXa2LLGKDz6zsGxeRZOMA=w1919-h938-no)
