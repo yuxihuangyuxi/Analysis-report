@@ -11,7 +11,7 @@
 主页例子：
 ![homepage eg1](https://lh3.googleusercontent.com/bG2DeNHdJNj_WG96635No2aS75mIV4f5HRHEikxt4ok=w1919-h875-no)
 ![homepage eg2](https://lh3.googleusercontent.com/8ArKMvkkLaY1VF5GzF7OYKSddqg6Y7K-_0CwfyIs7Ps=w1758-h825-no)
-![homepage eg3](https://lh3.googleusercontent.com/ot93kji_r3dErDN9gNxUp3W_krqeK82T3npZKCueMZA=w1919-h568-no)
+![homepage eg3](https://lh3.googleusercontent.com/J7viEaB-edM5PPXn06MTwnhsXMM0P7SqzhOFW4LjHjo=w552-h167-no)
 
 <h2>2. 顶部导航栏</h2>
 <ul>
@@ -50,7 +50,7 @@ Forum页面导航
 ![news](https://lh3.googleusercontent.com/4HYOrR-wBLGVx3GcjFGB0dI4gVbSpbcMkU02MYiT1ew=w1451-h295-no) 
 
 <h2>5. 源码下载http://kooboo.codeplex.com/<br/></h2>
-引入第三方平台并且直接跳转并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在菜单栏中，而是和各大社交平台并列放置在页面底部。</strong>
+直接跳转到其他网站并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在菜单栏中，而是作为主页独立版块“其他社交平台”的一部分放置在主页中</strong>
 ![download](https://lh3.googleusercontent.com/hMFVyts0IZ0Vd9uQ0DWNCw9BweUwexLYmaU5rkMcQM0=w1918-h418-no)
 
 <h2>6. 论坛http://forum.kooboo.com/</h2>
@@ -69,6 +69,6 @@ Forum页面导航
 总结提升Kooboo Site用户体验的（页面&非页面）关键步骤：
 <ul><strong>
 <li>主页仿照示例网站重新设计</li>
-<li>建设和维护论坛、第三方平台，包括codeplex，github，并整合放置在主页</li>
+<li>建设和维护论坛、其他社交平台，包括codeplex，github，并整合放置在主页</li>
 <li>制作产品介绍flash</li>
 </strong></ul>
