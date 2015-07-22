@@ -61,10 +61,9 @@ Forum页面导航
 <h3>Join us</h3>
 这个页面是后来新加的，如果决定继续保留此页面，则需要根据整个网站的主题元素加入设计，让整个页面更易阅读，看上去更专业。
 ![join us](https://lh3.googleusercontent.com/oxsIDyirGc1jYENcAMATloakMKIwTZ4M9EYtcRu8gFU=w1918-h970-no)
-类似的页面还有Licensehttp://www.kooboo.com/licensefaq<br/>
-Privacy Policyhttp://www.kooboo.com/privacy-policy<br/>
-Servicehttp://www.kooboo.com/Service<br/>
-另外Service页面contact信息应该归入http://kooboo.com/contact，此处只保留一个链接跳转到Contact页面即可。
+类似的页面还有<a href="www.kooboo.com/licensefaq">License</a><a href="www.kooboo.com/privacy-policy">Privacy Policy</a>
+<a href="www.kooboo.com/Serice">Service</a>
+另外Service页面contact信息应该归入<a href="www.kooboo.com/contact">contact</a>，此处只保留一个链接跳转到Contact页面即可。
 ![service](https://lh3.googleusercontent.com/XcummvfRQLlRvyjK5gCrWL_yFY8Vx1t6tVkXjB8GJ6g=w1758-h615-no)
 
 总结提升Kooboo Site用户体验的（页面&非页面）关键步骤：
