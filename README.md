@@ -13,7 +13,7 @@
 ![homepage eg2](https://lh3.googleusercontent.com/d2nX0rcHKwoz6mVUH9ksHwQbnKtMCncc23N0Vyk8pf0=w1919-h903-no)
 ![homepage eg3](https://lh3.googleusercontent.com/ot93kji_r3dErDN9gNxUp3W_krqeK82T3npZKCueMZA=w1919-h568-no)
 
-<h2>2. 顶部菜单栏</h2>
+<h2>2. 顶部菜单栏/导航栏</h2>
 <ul>
 <li>交互感不强</li>
 <li>内容及排列不合理</li>
@@ -27,7 +27,12 @@
 ![menu IX eg](https://lh3.googleusercontent.com/9jUCtISoW7FBInc2HIG5HcjawjuO6EF0petu3J9g61A=w1920-h378-no)
 
 <h3>内容及排列不合理</h3>
-![menu content](https://lh3.googleusercontent.com/wTweDgdrBl-JRrxLcPV2FsDrmq_nMG4fnROIO7N-SAM=w1223-h356-no)
+<ul>
+<li>Docs应改成Tutorial“用户指导手册”</li>
+<li>Updates-更新，可以是产品的更新，也可以是公司信息的更新，表达后者最好用News/Blog/Article</li>
+<li>顶部导航最好不要放置太多按钮，“Forum”不必放在此处，可作为主页独立版块“用户支持”的一部分放置在主页中</li>
+</ul>
+![menu content](https://lh3.googleusercontent.com/QsHj2NoLOARj3HxUIhL0v85jfMW5dVHGbWR-TTCqTs0=w1919-h69-no)
 
 菜单还应添加一些快速入口<br/>
 ![menu shortcut](https://lh3.googleusercontent.com/HNM7bRyQ2LyF3hWukzKFBW8-uZwCxI4jtQK3S1fAhmE=w660-h223-no)
