@@ -64,7 +64,7 @@ Forum页面导航
 类似的页面还有<br/>
 <a href="http://www.kooboo.com/licensefaq">License</a><br/>
 <a href="http://www.kooboo.com/privacy-policy">Privacy Policy</a><br/>
-<a href="http://www.kooboo.com/Serice">Service</a><br/>
+<a href="http://www.kooboo.com/Service">Service</a><br/>
 另外Service页面"contact"信息应该归入<a href="http://www.kooboo.com/contact">contact</a>，此处只保留一个链接跳转到Contact页面即可。
 ![service](https://lh3.googleusercontent.com/XcummvfRQLlRvyjK5gCrWL_yFY8Vx1t6tVkXjB8GJ6g=w1758-h615-no)
 
