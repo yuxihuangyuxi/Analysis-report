@@ -1,6 +1,6 @@
 <h1>Kooboo Site用户体验分析</h1>
 
-<strong>整体优点：结构清晰，易于阅读。<br/>
+<strong>整体优点：结构清晰。<br/>
 整体缺点：缺乏交互，用户引导不足。</strong>
 
 <h2>1. 网站主页http://kooboo.com/</h2>
@@ -57,7 +57,7 @@ Forum页面导航
 公司网站不仅是对外的展示窗口，更重要的是维护和发展用户社区，尤其是在公司新产品针对的是广大个人用户的情况下，作为Kooboo产品的门户网站，应该重视与用户的交流。所以要提高网站的体验，最重要和关键的就是服务好用户，对用户的疑问和问题进行跟踪处理。<br/>
 <strong>
 
-<h2>7. 子页面缺乏设计</h2>
+<h2>7. 子页面缺乏设计，可阅读性不强</h2>
 <h3>Join us</h3>
 这个页面是后来新加的，如果决定继续保留此页面，则需要根据整个网站的主题元素加入设计，让整个页面更易阅读，看上去更专业。
 ![join us](https://lh3.googleusercontent.com/oxsIDyirGc1jYENcAMATloakMKIwTZ4M9EYtcRu8gFU=w1918-h970-no)
@@ -65,12 +65,16 @@ Forum页面导航
 <a href="http://www.kooboo.com/licensefaq">License</a><br/>
 <a href="http://www.kooboo.com/privacy-policy">Privacy Policy</a><br/>
 <a href="http://www.kooboo.com/Service">Service</a><br/>
-另外Service页面"contact"信息应该归入<a href="http://www.kooboo.com/contact">contact</a>，此处只保留一个链接跳转到Contact页面即可。
+另外Service页面"contact"信息应该归入<a href="http://www.kooboo.com/contact">Contact</a>，此处只保留一个链接跳转到Contact页面即可。
 ![service](https://lh3.googleusercontent.com/XcummvfRQLlRvyjK5gCrWL_yFY8Vx1t6tVkXjB8GJ6g=w1758-h615-no)
+Partner network页面不可用
+![network](https://lh3.googleusercontent.com/O4_0FG_yqtsR1a9vSMOHe4N4SDTPTTAa5zplBban_NE=w1919-h751-no)
 
 总结提升Kooboo Site用户体验的（页面&非页面）关键步骤：
 <ul><strong>
 <li>主页仿照示例网站重新设计</li>
-<li>建设和维护论坛、其他社交平台，包括codeplex，github，并整合放置在主页</li>
 <li>制作产品介绍flash</li>
+<li>建设和维护论坛、其他社交平台，包括codeplex，github，并整合放置在主页</li>
 </strong></ul>
+最后一点是提升Kooboo用户体验的重中之重。Kooboo拥有一些忠实用户，这部分我们应该用心维护，而更多的留住甚至吸引新用户则要靠认真的对待和及时的回复。以下摘取Kooboo论坛、Codeplex，github看到的一些用户评论。
+
