@@ -10,7 +10,7 @@
 
 主页例子：
 ![homepage eg1](https://lh3.googleusercontent.com/bG2DeNHdJNj_WG96635No2aS75mIV4f5HRHEikxt4ok=w1919-h875-no)
-![homepage eg2](https://lh3.googleusercontent.com/d2nX0rcHKwoz6mVUH9ksHwQbnKtMCncc23N0Vyk8pf0=w1919-h903-no)
+![homepage eg2](https://lh3.googleusercontent.com/XGY4jHO65OaZaJLjS_zjw18AnBzFDgXOVvmm7H6j7do=w1760-h824-no)
 ![homepage eg3](https://lh3.googleusercontent.com/ot93kji_r3dErDN9gNxUp3W_krqeK82T3npZKCueMZA=w1919-h568-no)
 
 <h2>2. 顶部菜单栏/导航栏</h2>
