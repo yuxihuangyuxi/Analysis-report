@@ -16,7 +16,7 @@
 <h2>2. 顶部导航栏</h2>
 <ul>
 <li>内容及排列不合理</li>
-<li>与子页面和页尾不一致</li>
+<li>全局导航应保持全站一致</li>
 </ul>
 
 <h3>内容及排列不合理</h3>
@@ -32,12 +32,13 @@
 作为全局导航还可添加一些快速入口<br/>
 ![menu shortcut](https://lh3.googleusercontent.com/HNM7bRyQ2LyF3hWukzKFBW8-uZwCxI4jtQK3S1fAhmE=w660-h223-no)
 
-<h3>导航与子页面和页尾不一致</h3>
-全局导航应保持全站一致
-![main menu](https://lh3.googleusercontent.com/t9b8QYsmiIZD02VtN9NaxwOyqBFBRrS1_H8y76JlkPc=w1542-h55-no)
-![forum menu](https://lh3.googleusercontent.com/Z-lGFrLkJvD7Hrjz6I5ak3qQxGLbowXrdnyn1sPV_qo=w1611-h58-no)
+<h3>全局导航应保持全站一致</h3>
+主页导航
+![main menu](https://lh3.googleusercontent.com/2BwfOXcb-jVgRjWme1_buMDobhzg1RdRgVKO0lvfM44=w1918-h69-no)
+Forum页面导航
+![forum menu](https://lh3.googleusercontent.com/Klh1tdgNe2ndpkkMwfkW_nDXdVuXS-kIFwQB-ir-jtk=w1918-h68-no)
 导航与页尾之间应保持一定关联，以体现站点的完整性和易访问性。<br/>
-![footer relation](https://lh3.googleusercontent.com/YUOGysEO_R1oIXXRIYCmtPfR65Nx6JF5YsOPDyHF-88=w1563-h217-no)
+![footer relation](https://lh3.googleusercontent.com/hFW2BJYB-4GvYCrQZT7JJOJYcZ9Lf4V90csXCVK5Uhk=w1758-h244-no)
 示例：
 ![menu relation eg](https://lh3.googleusercontent.com/x2StVWXQTO3j7k1bYUy6uy9fbglLRZNVpRW3u3viGWw=w1611-h44-no)
 ![footer relation eg](https://lh3.googleusercontent.com/zXq9qKfDHDxXTupEXRZ8GgNlxbluz4X2fC0_3EHnFlA=w1611-h277-no)
