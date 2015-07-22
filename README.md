@@ -9,9 +9,9 @@
 ![homepage2](https://lh3.googleusercontent.com/LRttU2po4jD60me9OJyTC8i010B7tnmh064GrA6uOzI=w1919-h539-no)  
 
 主页例子：
-![homepage eg1](https://lh3.googleusercontent.com/7nosk1P6SzpMFPhGqzu4N-fXa2LLGKDz6zsGxeRZOMA=w1919-h938-no)
-![homepage eg2](https://lh3.googleusercontent.com/G_mA7oZleNnoY0G3jk_x_v45Fha35KeE2mXFqBwnzp4=w1919-h912-no)
-![homepage eg3](https://lh3.googleusercontent.com/3DY-PmgmUgkMcPsh9Ky4ghLKA301-I_CHg2APozF0h8=w1919-h570-no)
+![homepage eg1](https://lh3.googleusercontent.com/bG2DeNHdJNj_WG96635No2aS75mIV4f5HRHEikxt4ok=w1919-h875-no)
+![homepage eg2](https://lh3.googleusercontent.com/d2nX0rcHKwoz6mVUH9ksHwQbnKtMCncc23N0Vyk8pf0=w1919-h903-no)
+![homepage eg3](https://lh3.googleusercontent.com/ot93kji_r3dErDN9gNxUp3W_krqeK82T3npZKCueMZA=w1919-h568-no)
 
 <h2>2. 顶部菜单栏</h2>
 <ul>
@@ -63,8 +63,9 @@
 
 总结提升Kooboo Site用户体验的（非页面）关键步骤：
 <ul><strong>
-<li>制作产品介绍flash</li>
 <li>菜单栏右边侧提供快速入口，如在线客服</li>
+<li>主页重新分块：</li>
 <li>建设和维护社交账号和技术社区账号，包括codeplex，github，并整合放置在主页底部</li>
 <li>用户论坛专人维护和解答</li>
+<li>制作产品介绍flash</li>
 </strong></ul>
