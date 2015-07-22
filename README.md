@@ -50,7 +50,7 @@ Forum页面导航
 ![news](https://lh3.googleusercontent.com/4HYOrR-wBLGVx3GcjFGB0dI4gVbSpbcMkU02MYiT1ew=w1451-h295-no) 
 
 <h2>5. 源码下载http://kooboo.codeplex.com/<br/></h2>
-直接跳转到其他网站并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在菜单栏中，而是作为主页独立版块“其他社交平台”的一部分放置在主页中</strong>
+直接跳转到其他网站并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在菜单栏中，而是作为主页独立版块“社交平台及开源社区”的一部分放置在主页中</strong>
 ![download](https://lh3.googleusercontent.com/hMFVyts0IZ0Vd9uQ0DWNCw9BweUwexLYmaU5rkMcQM0=w1918-h418-no)
 
 <h2>6. 论坛http://forum.kooboo.com/</h2>
@@ -74,7 +74,7 @@ Partner network页面不可用
 <ul><strong>
 <li>主页仿照示例网站重新设计</li>
 <li>制作产品介绍flash</li>
-<li>建设和维护论坛、其他社交平台，包括codeplex，github，并整合放置在主页</li>
+<li>建设和维护论坛</li>
+<li>建设和维护好社交平台和开源社区，并整合放置在主页</li>
 </strong></ul>
-最后一点是提升Kooboo用户体验的重中之重。Kooboo拥有一些忠实用户，这部分我们应该用心维护，而更多的留住甚至吸引新用户则要靠认真的对待和及时的回复。以下摘取Kooboo论坛、Codeplex，github看到的一些用户评论。
-
+最后一点是提升Kooboo用户体验的重中之重。Kooboo拥有一些忠实用户，这部分我们应该用心维护，而更多的留住甚至吸引新用户则要靠认真的对待和及时的回复，靠不断的积累口碑。有时用户的一则负面评论就能导致不良影响。当暂时无法解决问题或给予明确答复时，至少应该做到适当回复，不要无视用户的评论。以下摘取Kooboo论坛、github看到的一些用户差评。
