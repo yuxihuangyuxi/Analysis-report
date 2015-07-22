@@ -13,35 +13,30 @@
 ![homepage eg2](https://lh3.googleusercontent.com/8ArKMvkkLaY1VF5GzF7OYKSddqg6Y7K-_0CwfyIs7Ps=w1758-h825-no)
 ![homepage eg3](https://lh3.googleusercontent.com/ot93kji_r3dErDN9gNxUp3W_krqeK82T3npZKCueMZA=w1919-h568-no)
 
-<h2>2. 顶部菜单栏/导航栏</h2>
+<h2>2. 顶部导航栏</h2>
 <ul>
-<li>交互感不强</li>
 <li>内容及排列不合理</li>
 <li>与子页面和页尾不一致</li>
 </ul>
 
-<h3>交互感不强</h3>
-![menu IX](https://lh3.googleusercontent.com/rAvLUhoN9UFzIXzV8mHVij75P3duLuDDNbE2A2JICkU=w1919-h108-no)
-
-顶部菜单交互示例：
-![menu IX eg](https://lh3.googleusercontent.com/9jUCtISoW7FBInc2HIG5HcjawjuO6EF0petu3J9g61A=w1920-h378-no)
-
 <h3>内容及排列不合理</h3>
 <ul>
+<li>点击logo即可回到主页，这是共识，顶部导航中的主页按钮基本多余</li>
 <li>Docs应改成Tutorial“用户指导手册”</li>
 <li>Updates-更新，可以是产品的更新，也可以是公司信息的更新，表达后者最好用News/Blog/Article</li>
 <li>顶部导航最好不要放置太多按钮，间距太小，“Forum”不必放在此处，可作为主页独立版块“用户支持”的一部分放置在主页中</li>
+<li>Download和Demo一起强调显示放在右边</li>
 </ul>
-![menu content](https://lh3.googleusercontent.com/QsHj2NoLOARj3HxUIhL0v85jfMW5dVHGbWR-TTCqTs0=w1919-h69-no)
+![menu content](https://lh3.googleusercontent.com/_nsxGEwlI65KVhysyL-BxMMxiyFkNI2Gz6pKC1eWr-M=w1918-h106-no)
 
-菜单还应添加一些快速入口<br/>
+作为全局导航还可添加一些快速入口<br/>
 ![menu shortcut](https://lh3.googleusercontent.com/HNM7bRyQ2LyF3hWukzKFBW8-uZwCxI4jtQK3S1fAhmE=w660-h223-no)
 
-<h3>菜单与子页面和页尾不一致</h3>
-全局菜单应保持全站一致
+<h3>导航与子页面和页尾不一致</h3>
+全局导航应保持全站一致
 ![main menu](https://lh3.googleusercontent.com/t9b8QYsmiIZD02VtN9NaxwOyqBFBRrS1_H8y76JlkPc=w1542-h55-no)
 ![forum menu](https://lh3.googleusercontent.com/Z-lGFrLkJvD7Hrjz6I5ak3qQxGLbowXrdnyn1sPV_qo=w1611-h58-no)
-菜单与页尾之间应保持一定关联，以体现站点的完整性和易访问性。<br/>
+导航与页尾之间应保持一定关联，以体现站点的完整性和易访问性。<br/>
 ![footer relation](https://lh3.googleusercontent.com/YUOGysEO_R1oIXXRIYCmtPfR65Nx6JF5YsOPDyHF-88=w1563-h217-no)
 示例：
 ![menu relation eg](https://lh3.googleusercontent.com/x2StVWXQTO3j7k1bYUy6uy9fbglLRZNVpRW3u3viGWw=w1611-h44-no)
