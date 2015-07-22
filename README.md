@@ -11,7 +11,7 @@
 主页例子：
 ![homepage eg1](https://lh3.googleusercontent.com/bG2DeNHdJNj_WG96635No2aS75mIV4f5HRHEikxt4ok=w1919-h875-no)
 ![homepage eg2](https://lh3.googleusercontent.com/8ArKMvkkLaY1VF5GzF7OYKSddqg6Y7K-_0CwfyIs7Ps=w1758-h825-no)
-![homepage eg3](https://lh3.googleusercontent.com/J7viEaB-edM5PPXn06MTwnhsXMM0P7SqzhOFW4LjHjo=w552-h167-no)
+![homepage eg3](https://lh3.googleusercontent.com/J7viEaB-edM5PPXn06MTwnhsXMM0P7SqzhOFW4LjHjo=w1919-h578-no)
 
 <h2>2. 顶部导航栏</h2>
 <ul>
