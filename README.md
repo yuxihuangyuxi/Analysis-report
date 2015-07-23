@@ -50,7 +50,7 @@
 ![news](https://lh3.googleusercontent.com/4HYOrR-wBLGVx3GcjFGB0dI4gVbSpbcMkU02MYiT1ew=w1451-h295-no) 
 
 <h2>5. 源码下载http://kooboo.codeplex.com/<br/></h2>
-直接跳转到其他网站并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在菜单栏中，而是作为主页独立版块“社交平台及开源社区”的一部分放置在主页中</strong>
+直接跳转到其他网站并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在导航栏中，而是作为主页独立版块“社交平台及开源社区”的一部分放置在主页中</strong>
 ![download](https://lh3.googleusercontent.com/hMFVyts0IZ0Vd9uQ0DWNCw9BweUwexLYmaU5rkMcQM0=w1918-h418-no)
 
 <h2>6. 子页面缺乏设计，可阅读性不强</h2>
