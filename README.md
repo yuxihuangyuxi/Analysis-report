@@ -66,7 +66,7 @@
 另外Service页面"contact"信息应该归入<a href="http://www.kooboo.com/contact">Contact</a>，此处只保留一个链接跳转到Contact页面即可。
 ![service](https://lh3.googleusercontent.com/XcummvfRQLlRvyjK5gCrWL_yFY8Vx1t6tVkXjB8GJ6g=w1758-h615-no)
 <br/>
-<h3>Partner network页面不可用</h3>
+<h3><a href="http://kooboo.com/Partner">Partner network</a>页面不可用</h3>
 ![network](https://lh3.googleusercontent.com/O4_0FG_yqtsR1a9vSMOHe4N4SDTPTTAa5zplBban_NE=w1919-h751-no)
 
 <h3>还有一个<a href="http://wiki.kooboo.com/?wiki=Main_Page">wiki</a>页面</h3>
