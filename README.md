@@ -54,7 +54,7 @@
 ![download](https://lh3.googleusercontent.com/hMFVyts0IZ0Vd9uQ0DWNCw9BweUwexLYmaU5rkMcQM0=w1918-h418-no)
 
 <h2>6. 子页面缺乏设计，可阅读性不强</h2>
-<h3>Join us</h3>
+<h3><a href="http://kooboo.com/join-us">Join us</a></h3>
 这个页面是后来新加的，如果决定继续保留此页面，则需要根据整个网站的主题元素加入设计，让整个页面更易阅读，看上去更专业。
 ![join us](https://lh3.googleusercontent.com/oxsIDyirGc1jYENcAMATloakMKIwTZ4M9EYtcRu8gFU=w1918-h970-no)
 <br/>
@@ -89,4 +89,4 @@ Kooboo拥有一些忠实用户，这部分我们应该用心维护，而更多�
 ![userpost4](https://lh3.googleusercontent.com/exfFzpS7ar5ojTkr79InwAKKHEhA4S73RWMLJHDq2FU=w1919-h725-no)
 
 
-Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品的个人用户的需求并不敏感，但是好口碑并不是一朝一夕可以建立的，所以应该在还没有发布收费版本的同时，就把个人客户关注和服务这件事重视起来，打好基础。
+Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品的个人用户的需求并不敏感，但是好口碑并不是一朝一夕可以建立的，所以应该在还没有向广大个人用户发布收费版本的同时，就把个人客户关注和服务这件事重视起来，打好基础。
