@@ -58,6 +58,7 @@
 这个页面是后来新加的，如果决定继续保留此页面，则需要根据整个网站的主题元素加入设计，让整个页面更易阅读，看上去更专业。
 ![join us](https://lh3.googleusercontent.com/oxsIDyirGc1jYENcAMATloakMKIwTZ4M9EYtcRu8gFU=w1918-h970-no)
 <br/>
+
 类似的页面还有
 <h3><a href="http://www.kooboo.com/licensefaq">License</a></h3>
 <h3><a href="http://www.kooboo.com/privacy-policy">Privacy Policy</a></h3>
