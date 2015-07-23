@@ -84,6 +84,10 @@ Partner network页面不可用
 
 公司网站不仅是对外的展示窗口，更重要的是维护和发展用户社区，尤其是在下一代Kooboo面对的是广大个人用户的情况下，作为Kooboo产品的门户网站，应该重视与用户的交流。所以要提高网站的体验，最重要和关键的就是服务好用户，对用户的疑问和问题进行跟踪处理。<br/>
 Kooboo拥有一些忠实用户，这部分我们应该用心维护，而更多的留住甚至吸引新用户则要靠认真的对待和及时的回复。有时用户的一则负面评论就能导致不良影响。当暂时无法解决问题或给予明确答复时，至少应该做到适当回复，不要无视用户的评论。以下摘取Kooboo论坛、github看到的一些用户差评。
+![userpost1](https://lh3.googleusercontent.com/rjIQ5Y5axuyrtXEzw5gxuJWb4_MZgLBgVnpp7BhhXYc=w1919-h549-no)
+![userpost2](https://lh3.googleusercontent.com/P9Hr_E2eUhdE_nme0n74X-csX6Pb4ungmkkpwpKoCeM=w1919-h164-no)
+![userpost3](https://lh3.googleusercontent.com/gfgFj7Flb20PviTqy2viXDl-bW1jJo6A1_VGZuqz6JM=w1919-h667-no)
+![userpost4](https://lh3.googleusercontent.com/exfFzpS7ar5ojTkr79InwAKKHEhA4S73RWMLJHDq2FU=w1919-h725-no)
 
 
-Kooboo CMS之前一直是有偿服务企业用户为主，导致对使用免费产品的个人用户的需求并不敏感，但是好口碑并不是一朝一夕可以建立的，所以应该在还没有发布收费版本的同时，就把个人客户关注和服务这件事重视起来，打好基础。
+Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品的个人用户的需求并不敏感，但是好口碑并不是一朝一夕可以建立的，所以应该在还没有发布收费版本的同时，就把个人客户关注和服务这件事重视起来，打好基础。
