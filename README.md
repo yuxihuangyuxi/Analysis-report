@@ -29,7 +29,7 @@
 </ul>
 ![menu content](https://lh3.googleusercontent.com/_nsxGEwlI65KVhysyL-BxMMxiyFkNI2Gz6pKC1eWr-M=w1918-h106-no)
 
-<ul><li>作为全局导航还可添加一些快速入口</li></ul><br/>
+<ul><li>作为全局导航还可添加一些快速入口</li></ul>
 ![menu shortcut](https://lh3.googleusercontent.com/HNM7bRyQ2LyF3hWukzKFBW8-uZwCxI4jtQK3S1fAhmE=w660-h223-no)
 
 <h3>全局导航应保持全站一致</h3>
