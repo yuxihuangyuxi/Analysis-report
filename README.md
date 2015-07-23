@@ -29,15 +29,15 @@
 </ul>
 ![menu content](https://lh3.googleusercontent.com/_nsxGEwlI65KVhysyL-BxMMxiyFkNI2Gz6pKC1eWr-M=w1918-h106-no)
 
-作为全局导航还可添加一些快速入口<br/>
+<ul><li>作为全局导航还可添加一些快速入口</li></ul><br/>
 ![menu shortcut](https://lh3.googleusercontent.com/HNM7bRyQ2LyF3hWukzKFBW8-uZwCxI4jtQK3S1fAhmE=w660-h223-no)
 
 <h3>全局导航应保持全站一致</h3>
-主页导航
+<ul><li>主页导航</li></ul>
 ![main menu](https://lh3.googleusercontent.com/2BwfOXcb-jVgRjWme1_buMDobhzg1RdRgVKO0lvfM44=w1918-h69-no)
-Forum页面导航
+<ul><li>Forum页面导航</li></ul>
 ![forum menu](https://lh3.googleusercontent.com/Klh1tdgNe2ndpkkMwfkW_nDXdVuXS-kIFwQB-ir-jtk=w1918-h68-no)
-导航与页尾之间应保持一定关联，以体现站点的完整性和易访问性。<br/>
+<ul><li>导航与页尾之间应保持一定关联，以体现站点的完整性和易访问性。</li></ul>
 ![footer relation](https://lh3.googleusercontent.com/hFW2BJYB-4GvYCrQZT7JJOJYcZ9Lf4V90csXCVK5Uhk=w1758-h244-no)
 示例：
 ![menu relation eg](https://lh3.googleusercontent.com/x2StVWXQTO3j7k1bYUy6uy9fbglLRZNVpRW3u3viGWw=w1611-h44-no)
