@@ -53,28 +53,36 @@ Forum页面导航
 直接跳转到其他网站并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在菜单栏中，而是作为主页独立版块“社交平台及开源社区”的一部分放置在主页中</strong>
 ![download](https://lh3.googleusercontent.com/hMFVyts0IZ0Vd9uQ0DWNCw9BweUwexLYmaU5rkMcQM0=w1918-h418-no)
 
-<h2>7. 子页面缺乏设计，可阅读性不强</h2>
+<h2>6. 子页面缺乏设计，可阅读性不强</h2>
 <h3>Join us</h3>
 这个页面是后来新加的，如果决定继续保留此页面，则需要根据整个网站的主题元素加入设计，让整个页面更易阅读，看上去更专业。
 ![join us](https://lh3.googleusercontent.com/oxsIDyirGc1jYENcAMATloakMKIwTZ4M9EYtcRu8gFU=w1918-h970-no)
+<br/>
 类似的页面还有<br/>
 <a href="http://www.kooboo.com/licensefaq">License</a><br/>
 <a href="http://www.kooboo.com/privacy-policy">Privacy Policy</a><br/>
 <a href="http://www.kooboo.com/Service">Service</a><br/>
+<br/>
 另外Service页面"contact"信息应该归入<a href="http://www.kooboo.com/contact">Contact</a>，此处只保留一个链接跳转到Contact页面即可。
 ![service](https://lh3.googleusercontent.com/XcummvfRQLlRvyjK5gCrWL_yFY8Vx1t6tVkXjB8GJ6g=w1758-h615-no)
+<br/>
 Partner network页面不可用
 ![network](https://lh3.googleusercontent.com/O4_0FG_yqtsR1a9vSMOHe4N4SDTPTTAa5zplBban_NE=w1919-h751-no)
+
+<br/>还有一个wiki页面http://wiki.kooboo.com/?wiki=Main_Page<br/>
+但是这个页面在Kooboo网站上找不到入口，链接也很慢。
 
 总结提升Kooboo Site用户体验的（页面&非页面）关键步骤：
 <ul><strong>
 <li>主页仿照示例网站重新设计</li>
+<li>导航重新布置</li>
 <li>制作产品介绍flash</li>
 <li>建设和维护论坛</li>
 <li>建设和维护好社交平台和开源社区，并整合放置在主页</li>
 </strong></ul>
 
-公司网站不仅是对外的展示窗口，更重要的是维护和发展用户社区，尤其是在公司新产品针对的是广大个人用户的情况下，作为Kooboo产品的门户网站，应该重视与用户的交流。所以要提高网站的体验，最重要和关键的就是服务好用户，对用户的疑问和问题进行跟踪处理。<br/>
+公司网站不仅是对外的展示窗口，更重要的是维护和发展用户社区，尤其是在下一代Kooboo面对的是广大个人用户的情况下，作为Kooboo产品的门户网站，应该重视与用户的交流。所以要提高网站的体验，最重要和关键的就是服务好用户，对用户的疑问和问题进行跟踪处理。<br/>
 Kooboo拥有一些忠实用户，这部分我们应该用心维护，而更多的留住甚至吸引新用户则要靠认真的对待和及时的回复。有时用户的一则负面评论就能导致不良影响。当暂时无法解决问题或给予明确答复时，至少应该做到适当回复，不要无视用户的评论。以下摘取Kooboo论坛、github看到的一些用户差评。
 
-Kooboo CMS之前面对的一直是企业用户为主，导致对个人用户的需求并不敏感，但是好口碑并不是一朝一夕可以建立的，所以应该在还没有发布下一个版本的同时，就把客户关注和服务这件事重视起来，打好基础。
+
+Kooboo CMS之前一直是有偿服务企业用户为主，导致对使用免费产品的个人用户的需求并不敏感，但是好口碑并不是一朝一夕可以建立的，所以应该在还没有发布收费版本的同时，就把个人客户关注和服务这件事重视起来，打好基础。
