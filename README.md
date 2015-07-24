@@ -1,6 +1,7 @@
 #Kooboo Site用户体验分析
 - [网站主页][homepage]
 - [顶部导航][navigation]
+     - [内容及排列不合理][menu-content]
 - [产品介绍][products]
 - [新闻][news]
 - [源码下载][download]
@@ -20,12 +21,7 @@
 ![homepage eg2](https://lh3.googleusercontent.com/8ArKMvkkLaY1VF5GzF7OYKSddqg6Y7K-_0CwfyIs7Ps=w1758-h825-no)
 ![homepage eg3](https://lh3.googleusercontent.com/J7viEaB-edM5PPXn06MTwnhsXMM0P7SqzhOFW4LjHjo=w1919-h578-no)
 
-##Navigation
-顶部导航栏
-<ul>
-<li>内容及排列不合理</li>
-<li>全局导航应保持全站一致</li>
-</ul>
+##顶部导航栏
 
 ###内容及排列不合理
 <ul>
@@ -108,6 +104,7 @@ Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品�
 
 [homepage]: #网站主页
 [navigation]: #navigation
+[menu-content]: #内容及排列不合理
 [products]: #products
 [news]: #news
 [download]: #download
