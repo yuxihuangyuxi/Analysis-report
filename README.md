@@ -1,5 +1,5 @@
 #Kooboo Site用户体验分析
-- [网站主页][homepage]
+- [网站主页][1. 网站主页http://kooboo.com/]
 
 <strong>整体优点：结构清晰。<br/>
 整体缺点：缺乏交互，用户引导不足。</strong>
