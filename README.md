@@ -10,7 +10,7 @@
 <strong>整体优点：结构清晰。<br/>
 整体缺点：缺乏交互，用户引导不足。</strong>
 
-##网站主页http://kooboo.com/
+##<a href="http://kooboo.com">网站主页</a>
 首先打开咱们的kooboo网站主页，给人的感觉比较单调，并且缺少了一些重要内容。既没有明确列出公司的主要产品，也不具有说服性和引导性。
 ![homepage1](https://lh3.googleusercontent.com/b9lyqeiLxbnI5JD6C0lz7UVgnlpXS9p5horfbt57leI=w1770-h947-no)
 ![homepage2](https://lh3.googleusercontent.com/LRttU2po4jD60me9OJyTC8i010B7tnmh064GrA6uOzI=w1919-h539-no)  
@@ -106,7 +106,7 @@ Kooboo拥有一些忠实用户，这部分我们应该用心维护，而更多�
 Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品的个人用户的需求并不敏感，但是好口碑并不是一朝一夕可以建立的，所以应该在还没有向广大个人用户发布收费版本的同时，就把个人客户关注和服务这件事重视起来，打好基础。
 
 
-[homepage]: #网站主页http://kooboo.com/
+[homepage]: #网站主页
 [navigation]: #navigation
 [products]: #products
 [news]: #news
