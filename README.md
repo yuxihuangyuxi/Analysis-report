@@ -1,11 +1,11 @@
 #Kooboo Site用户体验分析
-- [网站主页][homepage]
-- [顶部导航栏][navigation]
-- [产品介绍][products]
-- [新闻][news]
-- [源码下载][download]
-- [子页面][sub-pages]
-- [总结][summary]
+- [Homepage][homepage]
+- [Navigation][navigation]
+- [Products][products]
+- [News][news]
+- [Download][download]
+- [Sub Pages][sub-pages]
+- [Summary][summary]
 
 <strong>整体优点：结构清晰。<br/>
 整体缺点：缺乏交互，用户引导不足。</strong>
