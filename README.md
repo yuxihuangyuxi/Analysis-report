@@ -1,5 +1,5 @@
 #Kooboo Site用户体验分析
-<a Name="1. 网站主页http://kooboo.com/">[网站主页]</a>
+<a name="1. 网站主页http://kooboo.com/">网站主页</a>
 
 <strong>整体优点：结构清晰。<br/>
 整体缺点：缺乏交互，用户引导不足。</strong>
