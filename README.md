@@ -108,8 +108,8 @@ Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品�
 [navigation]: #navigation
 [menu-content]: #内容及排列不合理
 [menu-consistent]: #全局导航应保持全站一致
-[products]: #产品介绍
-[news]: #新闻
+[products]: #产品介绍页面
+[news]: #新闻页面
 [download]: #源码下载
 [sub-pages]: #子页面
 [join-us]: #join-us
