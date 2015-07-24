@@ -107,10 +107,10 @@ Kooboo拥有一些忠实用户，这部分我们应该用心维护，而更多�
 Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品的个人用户的需求并不敏感，但是好口碑并不是一朝一夕可以建立的，所以应该在还没有向广大个人用户发布收费版本的同时，就把个人客户关注和服务这件事重视起来，打好基础。
 
 
-[homepage]: ##Homepage
-[navigation]: ##Navigation
-[products]: ##Products
-[news]: ##News
-[download]: ##Download
-[sub-pages]: ##Sub-pages
-[summary]: ##Summary
+[homepage]: ##homepage
+[navigation]: ##navigation
+[products]: ##products
+[news]: ##news
+[download]: ##download
+[sub-pages]: ##sub-pages
+[summary]: ##summary
