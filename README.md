@@ -7,11 +7,6 @@
 - [新闻][news]
 - [源码下载][download]
 - [子页面][sub-pages]
-     - [Join us][join-us]
-     - [License][license]
-     - [Privacy Policy][privacy-policy]
-     - [Partner Network][partner-network]
-     - [Wiki][wiki]
 - [总结][summary]
 
 <strong>整体优点：结构清晰。<br/>
@@ -63,7 +58,7 @@
 直接跳转到其他网站并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在导航栏中，而是作为主页独立版块“社交平台及开源社区”的一部分放置在主页中</strong>
 ![download](https://lh3.googleusercontent.com/hMFVyts0IZ0Vd9uQ0DWNCw9BweUwexLYmaU5rkMcQM0=w1918-h418-no)
 
-##子页面缺乏设计，可阅读性不强
+##子页面缺乏设计可阅读性不强
 ###<a href="http://kooboo.com/join-us">Join us</a>
 这个页面是后来新加的，如果决定继续保留此页面，则需要根据整个网站的主题元素加入设计，让整个页面更易阅读，看上去更专业。
 ![join us](https://lh3.googleusercontent.com/oxsIDyirGc1jYENcAMATloakMKIwTZ4M9EYtcRu8gFU=w1918-h970-no)
@@ -111,10 +106,5 @@ Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品�
 [products]: #产品介绍页面
 [news]: #新闻页面
 [download]: #源码下载
-[sub-pages]: #子页面缺乏设计，可阅读性不强
-[join-us]: #join-us
-[license]: ##license
-[privacy-policy]: #privacy-policy
-[partner-network]: #partner-network页面不可用
-[wiki]: #还有一个wiki页面
+[sub-pages]: #子页面缺乏设计可阅读性不强
 [summary]: #summary
