@@ -111,7 +111,7 @@ Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品�
 [products]: #产品介绍页面
 [news]: #新闻页面
 [download]: #源码下载
-[sub-pages]: #子页面
+[sub-pages]: #子页面缺乏设计，可阅读性不强
 [join-us]: #join-us
 [license]: ##license
 [privacy-policy]: #privacy-policy
