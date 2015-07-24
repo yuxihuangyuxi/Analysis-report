@@ -1,9 +1,10 @@
-<h1>Kooboo Site用户体验分析</h1>
+#Kooboo Site用户体验分析
+- [网站主页][homepage]
 
 <strong>整体优点：结构清晰。<br/>
 整体缺点：缺乏交互，用户引导不足。</strong>
 
-<h2>1. 网站主页http://kooboo.com/</h2>
+##1. 网站主页http://kooboo.com/
 首先打开咱们的kooboo网站主页，给人的感觉比较单调，并且缺少了一些重要内容。既没有明确列出公司的主要产品，也不具有说服性和引导性。
 ![homepage1](https://lh3.googleusercontent.com/b9lyqeiLxbnI5JD6C0lz7UVgnlpXS9p5horfbt57leI=w1770-h947-no)
 ![homepage2](https://lh3.googleusercontent.com/LRttU2po4jD60me9OJyTC8i010B7tnmh064GrA6uOzI=w1919-h539-no)  
