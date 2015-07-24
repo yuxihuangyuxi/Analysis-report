@@ -21,7 +21,8 @@
 ![homepage eg2](https://lh3.googleusercontent.com/8ArKMvkkLaY1VF5GzF7OYKSddqg6Y7K-_0CwfyIs7Ps=w1758-h825-no)
 ![homepage eg3](https://lh3.googleusercontent.com/J7viEaB-edM5PPXn06MTwnhsXMM0P7SqzhOFW4LjHjo=w1919-h578-no)
 
-##2. 顶部导航栏
+##Navigation
+顶部导航栏
 <ul>
 <li>内容及排列不合理</li>
 <li>全局导航应保持全站一致</li>
@@ -51,17 +52,21 @@
 ![menu relation eg](https://lh3.googleusercontent.com/x2StVWXQTO3j7k1bYUy6uy9fbglLRZNVpRW3u3viGWw=w1611-h44-no)
 ![footer relation eg](https://lh3.googleusercontent.com/zXq9qKfDHDxXTupEXRZ8GgNlxbluz4X2fC0_3EHnFlA=w1611-h277-no)
 
-##3. 产品介绍页面http://kooboo.com/products/Kooboo-CMS
+##Products
+产品介绍页面http://kooboo.com/products/Kooboo-CMS
 ![products](https://lh3.googleusercontent.com/mLzFmTrPxV0xitccMEdqGBdTvIUslRbhrYcfROgsmTk=w1611-h670-no)  
  
-##4. 新闻页面http://www.kooboo.com/updates
+##News
+新闻页面http://www.kooboo.com/updates
 ![news](https://lh3.googleusercontent.com/4HYOrR-wBLGVx3GcjFGB0dI4gVbSpbcMkU02MYiT1ew=w1451-h295-no) 
 
-##5. 源码下载http://kooboo.codeplex.com/<br/>
+##Download
+源码下载http://kooboo.codeplex.com/<br/>
 直接跳转到其他网站并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在导航栏中，而是作为主页独立版块“社交平台及开源社区”的一部分放置在主页中</strong>
 ![download](https://lh3.googleusercontent.com/hMFVyts0IZ0Vd9uQ0DWNCw9BweUwexLYmaU5rkMcQM0=w1918-h418-no)
 
-##6. 子页面缺乏设计，可阅读性不强
+##Sub pages
+子页面缺乏设计，可阅读性不强
 ###<a href="http://kooboo.com/join-us">Join us</a>
 这个页面是后来新加的，如果决定继续保留此页面，则需要根据整个网站的主题元素加入设计，让整个页面更易阅读，看上去更专业。
 ![join us](https://lh3.googleusercontent.com/oxsIDyirGc1jYENcAMATloakMKIwTZ4M9EYtcRu8gFU=w1918-h970-no)
@@ -81,7 +86,8 @@
 ###还有一个<a href="http://wiki.kooboo.com/?wiki=Main_Page">wiki</a>页面
 但是这个页面在Kooboo网站上找不到入口，链接也很慢。
 
-##总结提升Kooboo Site用户体验的（页面&非页面）关键步骤：
+##Summary
+总结提升Kooboo Site用户体验的（页面&非页面）关键步骤：
 <ul><strong>
 <li>主页仿照示例网站重新设计</li>
 <li>导航重新布置</li>
@@ -102,10 +108,9 @@ Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品�
 
 
 [homepage]: ##Homepage
-[getting-started]: #getting-started
-[reqs]: #requirements
-[install]: #installation
-[navigate]: #find-your-way-around
-[example]: #example
-[lib]: #library
-[use]: #use-in-your-own-project
+[navigation]: ##Navigation
+[products]: ##Products
+[news]: ##News
+[download]: ##Download
+[sub-pages]: ##Sub-pages
+[summary]: ##Summary
