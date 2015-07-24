@@ -53,21 +53,17 @@
 ![menu relation eg](https://lh3.googleusercontent.com/x2StVWXQTO3j7k1bYUy6uy9fbglLRZNVpRW3u3viGWw=w1611-h44-no)
 ![footer relation eg](https://lh3.googleusercontent.com/zXq9qKfDHDxXTupEXRZ8GgNlxbluz4X2fC0_3EHnFlA=w1611-h277-no)
 
-##Products
-产品介绍页面http://kooboo.com/products/Kooboo-CMS
+##<a href="http://kooboo.com/products/Kooboo-CMS">产品介绍页面</a>
 ![products](https://lh3.googleusercontent.com/mLzFmTrPxV0xitccMEdqGBdTvIUslRbhrYcfROgsmTk=w1611-h670-no)  
  
-##News
-新闻页面http://www.kooboo.com/updates
+##<a href="http://www.kooboo.com/updates">新闻页面</a>
 ![news](https://lh3.googleusercontent.com/4HYOrR-wBLGVx3GcjFGB0dI4gVbSpbcMkU02MYiT1ew=w1451-h295-no) 
 
-##Download
-源码下载http://kooboo.codeplex.com/<br/>
+##<a href="http://kooboo.codeples.com/">源码下载</a>
 直接跳转到其他网站并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在导航栏中，而是作为主页独立版块“社交平台及开源社区”的一部分放置在主页中</strong>
 ![download](https://lh3.googleusercontent.com/hMFVyts0IZ0Vd9uQ0DWNCw9BweUwexLYmaU5rkMcQM0=w1918-h418-no)
 
-##Sub pages
-子页面缺乏设计，可阅读性不强
+##子页面缺乏设计，可阅读性不强
 ###<a href="http://kooboo.com/join-us">Join us</a>
 这个页面是后来新加的，如果决定继续保留此页面，则需要根据整个网站的主题元素加入设计，让整个页面更易阅读，看上去更专业。
 ![join us](https://lh3.googleusercontent.com/oxsIDyirGc1jYENcAMATloakMKIwTZ4M9EYtcRu8gFU=w1918-h970-no)
