@@ -14,13 +14,13 @@
 ![homepage eg2](https://lh3.googleusercontent.com/8ArKMvkkLaY1VF5GzF7OYKSddqg6Y7K-_0CwfyIs7Ps=w1758-h825-no)
 ![homepage eg3](https://lh3.googleusercontent.com/J7viEaB-edM5PPXn06MTwnhsXMM0P7SqzhOFW4LjHjo=w1919-h578-no)
 
-<h2>2. 顶部导航栏</h2>
+##2. 顶部导航栏
 <ul>
 <li>内容及排列不合理</li>
 <li>全局导航应保持全站一致</li>
 </ul>
 
-<h3>内容及排列不合理</h3>
+###内容及排列不合理
 <ul>
 <li>点击logo即可回到主页，这是共识，顶部导航中的主页按钮基本多余</li>
 <li>Docs应改成Tutorial“用户指导手册”</li>
@@ -33,7 +33,7 @@
 <ul><li>作为全局导航还可添加一些快速入口</li></ul>
 ![menu shortcut](https://lh3.googleusercontent.com/HNM7bRyQ2LyF3hWukzKFBW8-uZwCxI4jtQK3S1fAhmE=w660-h223-no)
 
-<h3>全局导航应保持全站一致</h3>
+###全局导航应保持全站一致
 <ul><li>主页导航</li></ul>
 ![main menu](https://lh3.googleusercontent.com/2BwfOXcb-jVgRjWme1_buMDobhzg1RdRgVKO0lvfM44=w1918-h69-no)
 <ul><li>Forum页面导航</li></ul>
@@ -44,37 +44,37 @@
 ![menu relation eg](https://lh3.googleusercontent.com/x2StVWXQTO3j7k1bYUy6uy9fbglLRZNVpRW3u3viGWw=w1611-h44-no)
 ![footer relation eg](https://lh3.googleusercontent.com/zXq9qKfDHDxXTupEXRZ8GgNlxbluz4X2fC0_3EHnFlA=w1611-h277-no)
 
-<h2>3. 产品介绍页面http://kooboo.com/products/Kooboo-CMS</h2>
+##3. 产品介绍页面http://kooboo.com/products/Kooboo-CMS
 ![products](https://lh3.googleusercontent.com/mLzFmTrPxV0xitccMEdqGBdTvIUslRbhrYcfROgsmTk=w1611-h670-no)  
  
-<h2>4. 新闻页面http://www.kooboo.com/updates</h2>
+##4. 新闻页面http://www.kooboo.com/updates
 ![news](https://lh3.googleusercontent.com/4HYOrR-wBLGVx3GcjFGB0dI4gVbSpbcMkU02MYiT1ew=w1451-h295-no) 
 
-<h2>5. 源码下载http://kooboo.codeplex.com/<br/></h2>
+##5. 源码下载http://kooboo.codeplex.com/<br/>
 直接跳转到其他网站并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在导航栏中，而是作为主页独立版块“社交平台及开源社区”的一部分放置在主页中</strong>
 ![download](https://lh3.googleusercontent.com/hMFVyts0IZ0Vd9uQ0DWNCw9BweUwexLYmaU5rkMcQM0=w1918-h418-no)
 
-<h2>6. 子页面缺乏设计，可阅读性不强</h2>
-<h3><a href="http://kooboo.com/join-us">Join us</a></h3>
+##6. 子页面缺乏设计，可阅读性不强
+###<a href="http://kooboo.com/join-us">Join us</a>
 这个页面是后来新加的，如果决定继续保留此页面，则需要根据整个网站的主题元素加入设计，让整个页面更易阅读，看上去更专业。
 ![join us](https://lh3.googleusercontent.com/oxsIDyirGc1jYENcAMATloakMKIwTZ4M9EYtcRu8gFU=w1918-h970-no)
 <br/>
 
 类似的页面还有
-<h3><a href="http://www.kooboo.com/licensefaq">License</a></h3>
-<h3><a href="http://www.kooboo.com/privacy-policy">Privacy Policy</a></h3>
-<h3><a href="http://www.kooboo.com/Service">Service</a></h3>
+###<a href="http://www.kooboo.com/licensefaq">License</a>
+###<a href="http://www.kooboo.com/privacy-policy">Privacy Policy</a>
+###<a href="http://www.kooboo.com/Service">Service</a>
 
 另外Service页面"contact"信息应该归入<a href="http://www.kooboo.com/contact">Contact</a>，此处只保留一个链接跳转到Contact页面即可。
 ![service](https://lh3.googleusercontent.com/XcummvfRQLlRvyjK5gCrWL_yFY8Vx1t6tVkXjB8GJ6g=w1758-h615-no)
 <br/>
-<h3><a href="http://kooboo.com/Partner">Partner network</a>页面不可用</h3>
+###<a href="http://kooboo.com/Partner">Partner network</a>页面不可用
 ![network](https://lh3.googleusercontent.com/O4_0FG_yqtsR1a9vSMOHe4N4SDTPTTAa5zplBban_NE=w1919-h751-no)
 
-<h3>还有一个<a href="http://wiki.kooboo.com/?wiki=Main_Page">wiki</a>页面</h3>
+###还有一个<a href="http://wiki.kooboo.com/?wiki=Main_Page">wiki</a>页面
 但是这个页面在Kooboo网站上找不到入口，链接也很慢。
 
-<h2>总结提升Kooboo Site用户体验的（页面&非页面）关键步骤：</h2>
+##总结提升Kooboo Site用户体验的（页面&非页面）关键步骤：
 <ul><strong>
 <li>主页仿照示例网站重新设计</li>
 <li>导航重新布置</li>
