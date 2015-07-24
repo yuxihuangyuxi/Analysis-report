@@ -81,8 +81,7 @@
 另外Service页面"contact"信息应该归入<a href="http://www.kooboo.com/contact">Contact</a>，此处只保留一个链接跳转到Contact页面即可。
 ![service](https://lh3.googleusercontent.com/XcummvfRQLlRvyjK5gCrWL_yFY8Vx1t6tVkXjB8GJ6g=w1758-h615-no)
 <br/>
-###<a href="http://kooboo.com/Partner">Partner network</a>
-页面不可用
+###<a href="http://kooboo.com/Partner">Partner network</a>页面不可用
 ![network](https://lh3.googleusercontent.com/O4_0FG_yqtsR1a9vSMOHe4N4SDTPTTAa5zplBban_NE=w1919-h751-no)
 
 ###还有一个<a href="http://wiki.kooboo.com/?wiki=Main_Page">wiki</a>页面
@@ -120,6 +119,6 @@ Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品�
 [join-us]: #join-us
 [license]: ##license
 [privacy-policy]: #privacy-policy
-[partner-network]: #partner-network
+[partner-network]: #partner-network页面不可用
 [wiki]: #还有一个wiki页面
 [summary]: #summary
