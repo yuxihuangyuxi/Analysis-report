@@ -59,7 +59,7 @@
 ##<a href="http://www.kooboo.com/updates">新闻页面</a>
 ![news](https://lh3.googleusercontent.com/4HYOrR-wBLGVx3GcjFGB0dI4gVbSpbcMkU02MYiT1ew=w1451-h295-no) 
 
-##<a href="http://kooboo.codeples.com/">源码下载</a>
+##<a href="http://kooboo.codeplex.com/">源码下载</a>
 直接跳转到其他网站并无不可，但是要体现专业性，<strong>类似这样的链接不建议放在导航栏中，而是作为主页独立版块“社交平台及开源社区”的一部分放置在主页中</strong>
 ![download](https://lh3.googleusercontent.com/hMFVyts0IZ0Vd9uQ0DWNCw9BweUwexLYmaU5rkMcQM0=w1918-h418-no)
 
@@ -108,10 +108,10 @@ Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品�
 [navigation]: #navigation
 [menu-content]: #内容及排列不合理
 [menu-consistent]: #全局导航应保持全站一致
-[products]: #products
-[news]: #news
-[download]: #download
-[sub-pages]: #sub-pages
+[products]: #产品介绍
+[news]: #新闻
+[download]: #源码下载
+[sub-pages]: #子页面
 [join-us]: #join-us
 [license]: ##license
 [privacy-policy]: #privacy-policy
