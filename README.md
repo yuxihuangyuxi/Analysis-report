@@ -79,7 +79,7 @@
 ###还有一个<a href="http://wiki.kooboo.com/?wiki=Main_Page">wiki</a>页面
 但是这个页面在Kooboo网站上找不到入口，链接也很慢。
 
-##Summary
+##总结
 >>>总结提升Kooboo Site用户体验的（页面&非页面）关键步骤：
 <ul><strong>
 <li>主页仿照示例网站重新设计</li>
@@ -108,4 +108,4 @@ Kooboo CMS之前一直是有偿服务企业用户为主，对使用免费产品�
 [news]: #新闻页面
 [download]: #源码下载
 [sub-pages]: #子页面缺乏设计可阅读性不强
-[summary]: #summary
+[summary]: #总结
